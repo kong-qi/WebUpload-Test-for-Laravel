@@ -1,0 +1,11 @@
+{
+    "name": "kong-qi/webupload-test-for-laravel",
+    "description": "webupload for laravel5",
+    "authors": [  
+        {  
+            "name": "kongqi",  
+            "email": "531833998@qq.com"  
+        }  
+    ],  
+    "require": {}
+}
