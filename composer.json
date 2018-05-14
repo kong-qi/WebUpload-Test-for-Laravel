@@ -1,5 +1,5 @@
 {
-    "name": "kong-qi/webupload-test-for-laravel",
+    "name": "kong-qi/webupload",
     "description": "webupload for laravel5",
     "authors": [  
         {  
@@ -7,5 +7,11 @@
             "email": "531833998@qq.com"  
         }  
     ],  
-    "require": {}
+    "require": {},
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KongQi\\Webupload\\": "src/"
+        }
+    },
 }

@@ -21,8 +21,8 @@ class Webupload
     */
     public function css()
     {
-        echo '<link rel="stylesheet" type="text/css" href="/packages/webUpload/css/webuploader.css" />' . PHP_EOL;
-        echo '<link rel="stylesheet" type="text/css" href="/packages/webUpload/css/style.css"/>' . PHP_EOL;
+        echo '<link rel="stylesheet" type="text/css" href="/webUpload/css/webuploader.css" />' . PHP_EOL;
+        echo '<link rel="stylesheet" type="text/css" href="/webUpload/css/style.css"/>' . PHP_EOL;
     }
 
     /**
@@ -30,9 +30,9 @@ class Webupload
     */
     public function js()
     {
-        echo '<script type="text/javascript" src="/packages/webUpload/js/jquery.js"></script>' . PHP_EOL;
-        echo '<script type="text/javascript" src="/packages/webUpload/js/webuploader.js"></script>' . PHP_EOL;
-        echo '<script type="text/javascript" src="/packages/webUpload/js/upload.js"></script>' . PHP_EOL;
+        echo '<script type="text/javascript" src="/webUpload/js/jquery.js"></script>' . PHP_EOL;
+        echo '<script type="text/javascript" src="/webUpload/js/webuploader.js"></script>' . PHP_EOL;
+        echo '<script type="text/javascript" src="/webUpload/js/upload.js"></script>' . PHP_EOL;
     }
 
     /**
